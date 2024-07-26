@@ -1,8 +1,11 @@
-- ENVIRONMENT: google Colab, Jupyter NoteBook.
-TGANet:
-![image](https://github.com/user-attachments/assets/98b0069d-b2e4-4334-be08-5a5e7f4d2ebe)
-  TGANet is a neural network model designed for medical image processing, including endoscopic images. It consists of:
-- Blocks 1-4: Extract features from the input image at different levels.
-- Feature Enhancement Modules (FEM): Improve features using 1x1 convolution layers, 3x3 dilated convolutions with different dilation rates, Channel Attention Module (CAM), and Spatial Attention Module (SAM). The - result is an enhanced feature map.
--Decoder Blocks with Label Attention: Increase the resolution of the feature map and refine it by combining features from previous stages and using Label Attention along with Convolutional-block Attention Module (CBAM).
--Multi-Scale Feature Aggregation (MSFA) aggregates features from different levels to provide a final prediction of the presence and location of polyps.
+The code runs in the environment: google colab, jupyter notebook
+### TGA_Net
+- The source code of paper: TGANet.pdf
+- This is the result after I ran the TGA_NET.ipynb file and used the Kvasir-Seg dataset.
+![image](https://github.com/user-attachments/assets/77ce82a1-7b1d-425e-8ece-34a33d07797e)
+
+### TransNetR
+- The source code of paper: TransNetR.pdf
+- This is the result after I ran the TransNetR.ipynb file and used the Kvasir-Seg dataset.
+![image](https://github.com/user-attachments/assets/8df6c7c2-c4fd-4025-b361-bd12b32620aa)
+
