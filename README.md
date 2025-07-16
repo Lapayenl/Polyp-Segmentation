@@ -11,10 +11,14 @@ Tiến hành tìm hiểu và phát triển các phương pháp phân đoạn hì
 **TransNetR**
 <img width="313" height="511" alt="Screenshot 2025-07-16 122840" src="https://github.com/user-attachments/assets/22a8b308-da0c-4861-a70e-8fef50e60dc0" />
 <img width="223" height="500" alt="Screenshot 2025-07-16 122847" src="https://github.com/user-attachments/assets/431540fa-bd59-495e-85c4-3711a4c81fec" />
+<br>
 **TGA-Net**
 <img width="630" height="498" alt="Screenshot 2025-07-16 123348" src="https://github.com/user-attachments/assets/217bf8bb-97e5-426d-b41e-ed488fb87787" />
+<br>
 ## Tập dữ liệu
+<br>
 **Kvasir-SEG**
+<br>
 Kích thước 46.2MB, 1000 ảnh polyp, 1000 ground truth, đuôi ảnh JPEG, độ phân giải ảnh thay đổi từ 332x487 đến 1920x1072.
 <img width="491" height="167" alt="Screenshot 2025-07-16 125629" src="https://github.com/user-attachments/assets/64a05aea-0d7e-40b8-b2e8-defb1aee2a76" />
 **CVC-ClinicDB**
