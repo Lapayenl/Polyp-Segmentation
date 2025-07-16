@@ -12,12 +12,12 @@ Tiến hành tìm hiểu và phát triển các phương pháp phân đoạn hì
 ## Mô hình đề xuất
 
 
-**TransNetR**
+**TransNetR** <br>
 <img width="313" height="511" alt="Screenshot 2025-07-16 122840" src="https://github.com/user-attachments/assets/22a8b308-da0c-4861-a70e-8fef50e60dc0" />
 <img width="223" height="500" alt="Screenshot 2025-07-16 122847" src="https://github.com/user-attachments/assets/431540fa-bd59-495e-85c4-3711a4c81fec" />
 
 
-**TGA-Net**
+**TGA-Net** <br>
 <img width="630" height="498" alt="Screenshot 2025-07-16 123348" src="https://github.com/user-attachments/assets/217bf8bb-97e5-426d-b41e-ed488fb87787" />
 
 
@@ -36,20 +36,20 @@ Kích thước 81MB, chứa 612 hình ảnh polyp và có 612 ground truth, đu�
 
 
 **TransNetR**  
-<img width="692" height="179" alt="Screenshot 2025-07-16 130256" src="https://github.com/user-attachments/assets/9fa662c4-90a8-4a34-96e8-9289bbb2efc9" />
+<img width="692" height="179" alt="Screenshot 2025-07-16 130256" src="https://github.com/user-attachments/assets/9fa662c4-90a8-4a34-96e8-9289bbb2efc9" /> <br>
 Kết quả của mô hình khi sử dụng tập dữ liệu Kvasir-SEG
 
 
-<img width="700" height="169" alt="Screenshot 2025-07-16 130307" src="https://github.com/user-attachments/assets/aa2b8914-97f0-4162-bf7c-d065eeaa4bad" />
+<img width="700" height="169" alt="Screenshot 2025-07-16 130307" src="https://github.com/user-attachments/assets/aa2b8914-97f0-4162-bf7c-d065eeaa4bad" /> <br>
 Kết quả của mô hình khi sử dụng tập dữ liệu CVC-ClinicDB
 
 
 **TGA-Net**
-<img width="672" height="189" alt="Screenshot 2025-07-16 130534" src="https://github.com/user-attachments/assets/9d938fb5-01d8-497e-a83b-fbd3dd3f6209" />
+<img width="672" height="189" alt="Screenshot 2025-07-16 130534" src="https://github.com/user-attachments/assets/9d938fb5-01d8-497e-a83b-fbd3dd3f6209" /> <br>
 Kết quả của mô hình khi sử dụng tập dữ liệu Kvasir-SEG.
 
 
-<img width="672" height="192" alt="Screenshot 2025-07-16 130543" src="https://github.com/user-attachments/assets/ca92b91e-de8b-4be5-b0fe-437de8141514" />
+<img width="672" height="192" alt="Screenshot 2025-07-16 130543" src="https://github.com/user-attachments/assets/ca92b91e-de8b-4be5-b0fe-437de8141514" /> <br>
 Kết quả của mô hình khi sử dụng tập dữ liệu CVC-ClinicDB.
 
 
